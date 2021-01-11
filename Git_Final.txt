@@ -1,0 +1,10 @@
+git status indica se existe algum ficheiro para adicionar e mostra as últimas alterações.
+git checkout - Alternar entre branches ou restaurar os arquivos da árvore de trabalho
+O comando git log lista os commits realizados.
+É o mesmo que fazer os cmds git fetch + git merge em sucessão.
+
+Resultando na combinação das branches definidas no cmd. 
+
+
+git pull <remotename> <branchname>
+gitpush: The git push command is used to upload local repository content to a remote repository
