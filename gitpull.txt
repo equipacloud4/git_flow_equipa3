@@ -1,0 +1,6 @@
+É o mesmo que fazer os cmds git fetch + git merge em sucessão.
+
+Resultando na combinação das branches definidas no cmd. 
+
+
+git pull <remotename> <branchname>

@@ -1,0 +1,1 @@
+git status indica se existe algum ficheiro para adicionar e mostra as últimas alterações.
