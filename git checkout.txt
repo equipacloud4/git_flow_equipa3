@@ -1,1 +1,0 @@
-git checkout - Alternar entre branches ou restaurar os arquivos da árvore de trabalho

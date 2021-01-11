@@ -1,1 +1,0 @@
-O comando git log lista os commits realizados.
